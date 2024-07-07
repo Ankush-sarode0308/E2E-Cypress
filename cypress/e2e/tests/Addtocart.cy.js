@@ -16,7 +16,8 @@ describe('add to cart',()=>{
      addtocart.clickbutton()
      addtocart.getmac()
      addtocart.selecttocart()
-     addtocart.getalert().should('contain', "Success: You have added iMac to your shopping cart!")
+     addtocart.getalert().should('contain', testdata.successmessage.message)
   })
+
 
 })

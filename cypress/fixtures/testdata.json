@@ -7,5 +7,9 @@
 "product":{
 
     "productname":"mac"
+},
+
+"successmessage":{
+  "message":"Success: You have added iMac to your shopping cart!"
 }
 }
