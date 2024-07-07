@@ -1,0 +1,11 @@
+{"login" :{
+  "username" : "TestAutoamtionTest@fake.com",
+  "password" : "Test@123"
+
+
+},
+"product":{
+
+    "productname":"mac"
+}
+}
